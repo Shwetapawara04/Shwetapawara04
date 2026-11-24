@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Shweta Pawara
 
 - 🎓 First-year **MCA** student at IMCC, Pune (BCA graduate)
-- 💻 Working with **Python**, **MySQL**, **Git & GitHub**, **Excel / Google Sheets**, and **VS Code**
+- 💻 Working with **HTML**,**CSS**,**Python**, **MySQL**, **Git & GitHub**, **Excel / Google Sheets**, and **VS Code**
 - 📊 Exploring data analysis, dashboards, and research in business management & information systems
 - 🌱 Always learning new tools, building clean repositories, and collaborating on projects
 -💼 Completed 2 months of Web Development experience at Shivendu Infotech Pvt. Ltd.
